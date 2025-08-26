@@ -1,0 +1,14 @@
+{
+  "username": "Meet Ajudiya",
+  "email": "meetajudiya@gmail.com",
+  "gender": "Male",
+  "hobbies": [
+    "Traveling",
+    "Gaming"
+  ],
+  "profilePic": "/uploads/1756026734771_Meet_Ajudiya.jpg",
+  "otherPics": [
+    "/uploads/1756026734773_WhatsApp Image 2025-08-24 at 14.39.20_50691d9b.jpg",
+    "/uploads/1756026734773_book-img2.jpg"
+  ]
+}
